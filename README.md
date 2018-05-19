@@ -1,6 +1,6 @@
 # Machine Learning+Security 🤖 🤖
 *****
-## ML-DL based web-application Vulnerabilty detection.
+## MachineLearning and DeepLearning based web-application Vulnerabilty detection.
 ******
 # Reserach Papers - Currently Working On
 ### XSS- Detection
